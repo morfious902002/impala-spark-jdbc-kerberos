@@ -1,0 +1,1 @@
+# impala-spark-jdbc-kerberos
